@@ -1,0 +1,1 @@
+基于Linux系统ubuntu的基础电子相册
